@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Sta",
+				"StationAdmin"
+			],
+			[
+				"S",
+				"settings"
+			],
+			[
+				"M",
+				"MyEpaper"
+			],
+			[
+				"r",
+				"rtl"
+			],
+			[
+				"da",
+				"dat_list"
+			],
+			[
+				"Pa",
+				"Page_content"
+			],
+			[
+				"pa",
+				"page_no"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"c",
+				"con_list"
+			],
+			[
+				"MED",
+				"MEDIA_DIR"
+			],
+			[
+				"st",
+				"st_list"
+			],
+			[
+				"stat",
+				"STATIC_DIR"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"T",
+				"TEMPLATE_DIR"
+			],
+			[
+				"path",
+				"Path"
+			],
+			[
+				"quest",
+				"question"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"questio",
+				"question_id"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"sele",
+				"selected_choice"
+			],
+			[
+				"p",
+				"polls"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"que",
+				"question_id"
+			],
+			[
+				"question",
+				"question"
+			],
+			[
+				"http",
+				"HttpResponse"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"pu",
+				"pub_date"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"model",
+				"models"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"dir",
+			"exit()",
+			"cls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Support/Desktop/Projects/Ecommerce",
+		"/C/Users/Support/Desktop/Projects/Ecommerce/src"
+	],
+	"file_history":
+	[
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/17/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/17/p1.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecommerce.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
