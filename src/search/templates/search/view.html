@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %} Ecommerce - Products {% endblock title %}
+
+{% block content %}
+
+  <div class="row mt-5 mb-3">
+    {% if query %}
+  	<div class="col-12 ">
+      <p>Results for <b>{{ query }}<!-- {{ request.GET.q }} --></b></p>
+  		<h3> Searched Products</h3>
+  	</div>
+    {% else %}
+    <div class="col-12 col-lg-6 mx-auto">
+      {% include 'search/snippets/search-form.html' %}
+    </div>
+    {% endif %}
+  </div>
+  <div class="col-12">
+    <hr>
+  </div>
+  <div class="row">
+  	{% for obj in object_list %}
+  	<div class="col-12 col-md-4 ">
+  		{% include "products/snippets/card.html" with instance=obj %}
+  	</div>
+  	{% endfor%}
+  </div>
+  <!-- <div class="row">
+  	{% for obj in object_list %}
+    <div class="col">
+		<a href="{{ obj.get_absolute_url }}">{{ obj.title }}</a>
+		{% if obj.image %}
+		<img  src="{{obj.image.url}}" alt ="{{ obj.title}}"> 
+		{% endif %} 
+    </div>
+    {% endfor%}
+  </div> -->
+
+
+
+{% endblock content %}

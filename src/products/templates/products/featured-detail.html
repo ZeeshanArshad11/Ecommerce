@@ -1,0 +1,12 @@
+{% load static %}
+<h1>Featured Product</h1>
+{{ object.title }}
+</br>
+{{object.description}}
+</br>
+{{object.price}}
+</br>
+{% if object.image %}
+	<img  src="{{object.image.url}}" alt ="{{ object.title}}"> 
+{% endif %}
+</br>

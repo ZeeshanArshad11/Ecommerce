@@ -1,0 +1,71 @@
+{% extends 'base.html' %}
+
+
+{% block title %} Ecommerce - {{ title }} {% endblock title %}
+
+{% block content %}
+
+<div class="container">
+	<div class="row">
+		<div class="col">
+			<h1>{{title}}</h1>
+			<hr>
+		</div>
+	</div>
+	<div class="row">
+		<!-- custom added Form -->
+		<div class="col-6" style="display:none">
+			<!-- Default form contact -->
+			<form class="text-center border border-light p-5" method="POST">
+				{% csrf_token %}
+				<p class="h4 mb-4">Contact Us</p>
+
+				<!-- Name -->
+				<input type="text" id="defaultContactFormName" class="form-control mb-4" name="fullname" placeholder="Name">
+
+				<!-- Email -->
+				<input type="email" id="defaultContactFormEmail" class="form-control mb-4" name = "email" placeholder="E-mail">
+
+				<!-- Subject -->
+				<label>Subject</label>
+				<select class="browser-default custom-select mb-4 " name="subject">
+					<option value="" disabled>Choose option</option>
+					<option value="1" selected>Feedback</option>
+					<option value="2">Report a bug</option>
+					<option value="3">Feature request</option>
+				</select>
+
+				<!-- Message -->
+				<div class="form-group">
+					<textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="4" name="message" placeholder="Message"></textarea>
+				</div>
+
+				<!-- Copy -->
+				<div class="custom-control custom-checkbox mb-4">
+					<input type="checkbox" class="custom-control-input" id="defaultContactFormCopy">
+					<label class="custom-control-label" for="defaultContactFormCopy">Send me a copy of this message</label>
+				</div>
+
+				<!-- Send button -->
+				<button class="btn btn-info btn-block" type="submit">Send</button>
+
+			</form>
+			<!-- Default form contact -->
+		</div>
+		<div class="col-12 col-md-6 mx-auto">
+			<form class="contact-form text-center border border-light p-5" method = "POST" action="{% url 'contact' %}">
+				{% csrf_token %}
+				<p class="h4 mb-4">Contact Us</p>
+				<hr>
+				{{form}}
+				<!-- Send button -->
+				<button class="btn btn-info btn-block" type="submit">Send</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+
+
+{% endblock content %}
+

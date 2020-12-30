@@ -1,0 +1,10 @@
+<form class="text-center border border-light p-5" method = "POST" action="{% if action_url %}{{ action_url }}{% else %}{% url 'login' %}{% endif %}">
+	{% csrf_token %}
+	<!-- <p class="h4 mb-4">{% if action_url %} Guest Registration {% else %} Login Now {% endif %}</p> -->
+	{% if next_url %}
+		<input type="hidden" name="next" value="{{ next_url }}">
+	{% endif%}
+		{{form}}
+		<!-- Send button -->
+	<button class="btn btn-info btn-block" type="submit">Login</button>
+</form>

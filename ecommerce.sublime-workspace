@@ -4,6 +4,334 @@
 		"selected_items":
 		[
 			[
+				"is",
+				"is_ajax"
+			],
+			[
+				"conta",
+				"contact_form"
+			],
+			[
+				"con",
+				"contact_form"
+			],
+			[
+				"contact",
+				"contactFormSubmitBtn"
+			],
+			[
+				"dis",
+				"displaySubmitting"
+			],
+			[
+				"sub",
+				"contactFormSubmitBtn"
+			],
+			[
+				"submit",
+				"submitBtn"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"cart",
+				"cart_data"
+			],
+			[
+				"typi",
+				"typingTimer"
+			],
+			[
+				"typ",
+				"typingTimer"
+			],
+			[
+				"search",
+				"searchInpt"
+			],
+			[
+				"sear",
+				"searchForm"
+			],
+			[
+				"get",
+				"get_absolute_url"
+			],
+			[
+				"ca",
+				"cartBody"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"car",
+				"cartRows"
+			],
+			[
+				"produs",
+				"products_list"
+			],
+			[
+				"error",
+				"errorData"
+			],
+			[
+				"erro",
+				"errorData"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"navbar",
+				"navbarCount"
+			],
+			[
+				"err",
+				"errorData"
+			],
+			[
+				"this",
+				"thisForm"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"Billi",
+				"BillingProfile"
+			],
+			[
+				"orde",
+				"order_total"
+			],
+			[
+				"billing",
+				"billing_profile"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"o",
+				"order_obj"
+			],
+			[
+				"check",
+				"checkout"
+			],
+			[
+				"che",
+				"checkout_done_view"
+			],
+			[
+				"pos",
+				"postal_code"
+			],
+			[
+				"add",
+				"address_line_2"
+			],
+			[
+				"addres",
+				"address_qs"
+			],
+			[
+				"bii",
+				"billing_address"
+			],
+			[
+				"bill",
+				"billing_profile"
+			],
+			[
+				"shippi",
+				"shipping_address"
+			],
+			[
+				"ch",
+				"check_done"
+			],
+			[
+				"shi",
+				"shipping_address"
+			],
+			[
+				"sh",
+				"shipping_address"
+			],
+			[
+				"billi",
+				"billing_profile"
+			],
+			[
+				"s",
+				"session"
+			],
+			[
+				"gues",
+				"guest_email_id"
+			],
+			[
+				"Guest",
+				"GuestEmail"
+			],
+			[
+				"c",
+				"created"
+			],
+			[
+				"as",
+				"as_view"
+			],
+			[
+				"re",
+				"redirect_path"
+			],
+			[
+				"produc",
+				"products"
+			],
+			[
+				"cat",
+				"cart_obj"
+			],
+			[
+				"bg-",
+				"badge-warning"
+			],
+			[
+				"po",
+				"Product"
+			],
+			[
+				"p",
+				"product_id"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"new",
+				"new_or_get"
+			],
+			[
+				"Car",
+				"CartManager"
+			],
+			[
+				"user",
+				"user_obj"
+			],
+			[
+				"cart_",
+				"cart_obj"
+			],
+			[
+				"query",
+				"query"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"Pro",
+				"Product"
+			],
+			[
+				"logi",
+				"login_url"
+			],
+			[
+				"get_",
+				"get_queryset"
+			],
+			[
+				"P",
+				"ProductManager"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"uplo",
+				"upload_image_path"
+			],
+			[
+				"moe",
+				"Model"
+			],
+			[
+				"pass",
+				"password2"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
+				"passwo",
+				"password"
+			],
+			[
+				"E",
+				"EmailField"
+			],
+			[
+				"register",
+				"register_form"
+			],
+			[
+				"conte",
+				"context"
+			],
+			[
+				"R",
+				"RegisterForm"
+			],
+			[
+				"Lo",
+				"LoginForm"
+			],
+			[
+				"regis",
+				"register_form"
+			],
+			[
+				"login_",
+				"login_form"
+			],
+			[
+				"Po",
+				"POST"
+			],
+			[
+				"login",
+				"login_form"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
 				"Sta",
 				"StationAdmin"
 			],
@@ -32,16 +360,8 @@
 				"page_no"
 			],
 			[
-				"th",
-				"thead"
-			],
-			[
 				"nav",
 				"navbar"
-			],
-			[
-				"c",
-				"con_list"
 			],
 			[
 				"MED",
@@ -76,10 +396,6 @@
 				"results"
 			],
 			[
-				"re",
-				"request"
-			],
-			[
 				"questio",
 				"question_id"
 			],
@@ -90,10 +406,6 @@
 			[
 				"sele",
 				"selected_choice"
-			],
-			[
-				"p",
-				"polls"
 			],
 			[
 				"try",
@@ -135,6 +447,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/products/models.py",
+			"settings":
+			{
+				"buffer_size": 3021,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -147,6 +467,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
 			[
 				"Package Control: Install Package",
 				"Package Control: Install Package"
@@ -179,110 +503,133 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Support/Desktop/Projects/Ecommerce",
-		"/C/Users/Support/Desktop/Projects/Ecommerce/src"
+		"/D/Projects/Ecommerce",
+		"/D/Projects/Ecommerce/src",
+		"/D/Projects/Ecommerce/src/accounts",
+		"/D/Projects/Ecommerce/src/accounts/templates",
+		"/D/Projects/Ecommerce/src/accounts/templates/accounts",
+		"/D/Projects/Ecommerce/src/accounts/templates/accounts/snippets",
+		"/D/Projects/Ecommerce/src/addresses",
+		"/D/Projects/Ecommerce/src/ecommerce",
+		"/D/Projects/Ecommerce/src/products",
+		"/D/Projects/Ecommerce/src/products/templates",
+		"/D/Projects/Ecommerce/src/products/templates/products",
+		"/D/Projects/Ecommerce/src/products/templates/products/snippets"
 	],
 	"file_history":
 	[
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p4.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p1.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/index.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p8.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p7.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p6.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/05/p5.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p4.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p1.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/index.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p8.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p7.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p6.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/04/p5.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p1.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p8.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/index.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p7.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p6.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p4.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/03/p5.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p5.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p4.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p1.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/index.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p8.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p6.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/02/p7.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p1.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/index.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p8.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p7.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p6.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p5.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/01/p4.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p4.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p1.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/index.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p8.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p7.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p5.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/30/p6.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p8.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p1.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/index.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p7.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p4.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p6.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/29/p5.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p4.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p1.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/index.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p8.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p7.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p6.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/28/p5.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p4.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p1.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/index.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p8.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p7.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p6.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/27/p5.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p6.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p8.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p7.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p5.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p4.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/p1.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/26/index.html",
+		"/D/Projects/Ecommerce/src/products/templates/products/snippets/card.html",
+		"/D/Projects/Ecommerce/src/accounts/templates/accounts/snippets/forms.html",
+		"/D/Projects/Ecommerce/src/ecommerce/forms.py",
+		"/D/Projects/Ecommerce/src/templates/base.html",
+		"/D/Projects/Ecommerce/src/templates/contact/contact.html",
+		"/D/Projects/Ecommerce/src/ecommerce/views.py",
+		"/D/Projects/Ecommerce/src/templates/base/css.html",
+		"/D/Projects/Ecommerce/src/products/templates/products/list.html",
+		"/D/Projects/Ecommerce/src/products/templates/products/snippets/update-cart.html",
+		"/D/Projects/Ecommerce/src/accounts/templates/accounts/login.html",
+		"/D/Projects/Ecommerce/src/accounts/templates/accounts/register.html",
+		"/D/Projects/Ecommerce/src/templates/home_page.html",
+		"/D/Projects/Ecommerce/src/search/templates/search/view.html",
+		"/D/Projects/Ecommerce/src/carts/views.py",
+		"/D/Projects/Ecommerce/src/search/views.py",
+		"/D/Projects/Ecommerce/src/search/templates/search/snippets/search-form.html",
+		"/D/Projects/Ecommerce/src/templates/base/js.html",
+		"/D/Projects/Ecommerce/src/carts/templates/carts/snippets/remove-product.html",
+		"/D/Projects/Ecommerce/src/carts/templates/carts/home.html",
+		"/D/Projects/Ecommerce/src/products/views.py",
+		"/D/Projects/Ecommerce/src/carts/templates/carts/snippets/remove_product.html",
+		"/D/Projects/Ecommerce/src/ecommerce/urls.py",
+		"/D/Projects/Ecommerce/src/templates/base/navbar.html",
+		"/D/Projects/Ecommerce/src/addresses/templates/addresses/snippets/prev_address.html",
+		"/D/Projects/Ecommerce/fasttracktojquery/index.html",
+		"/D/Projects/Ecommerce/src/carts/templates/carts/checkout.html",
+		"/D/Projects/Ecommerce/src/orders/templates/orders/snippets/order_summary.html",
+		"/D/Projects/Ecommerce/src/carts/templates/carts/checkout_done.html",
+		"/D/Projects/Ecommerce/src/carts/models.py",
+		"/D/Projects/Ecommerce/src/carts/urls.py",
+		"/D/Projects/Ecommerce/src/addresses/views.py",
+		"/D/Projects/Ecommerce/src/addresses/models.py",
+		"/D/Projects/Ecommerce/src/billing/models.py",
+		"/D/Projects/Ecommerce/src/addresses/forms.py",
+		"/D/Projects/Ecommerce/src/orders/models.py",
+		"/D/Projects/Ecommerce/src/addresses/templates/addresses/snippets/forms.html",
+		"/D/Projects/Ecommerce/src/accounts/views.py",
+		"/D/Projects/Ecommerce/src/accounts/models.py",
+		"/D/Projects/Ecommerce/src/ecommerce/settings.py",
+		"/D/Projects/Ecommerce/src/addresses/admin.py",
+		"/D/Projects/Ecommerce/src/accounts/admin.py",
+		"/D/Projects/Ecommerce/src/accounts/forms.py",
+		"/D/Projects/Ecommerce/src/billing/admin.py",
+		"/D/Projects/Ecommerce/src/products/models.py",
+		"/D/Projects/Ecommerce/src/ecommerce/utils.py",
+		"/D/Projects/Ecommerce/src/tags/models.py",
+		"/D/Projects/Ecommerce/src/orders/migrations/0002_auto_20201124_1453.py",
+		"/D/Projects/Ecommerce/src/products/utils.py",
+		"/D/Projects/Ecommerce/src/orders/admin.py",
+		"/D/Projects/Ecommerce/src/products/templates/products/detail.html",
+		"/D/Projects/Ecommerce/src/carts/admin.py",
+		"/D/Projects/Ecommerce/src/tags/shell_commands.py",
+		"/D/Projects/Ecommerce/src/tags/admin.py",
+		"/D/Projects/Ecommerce/src/products/admin.py",
+		"/D/Projects/Ecommerce/src/search/templates/snippets/search-form.html",
+		"/D/Projects/Ecommerce/src/search/urls.py",
+		"/D/Projects/Ecommerce/src/products/urls.py",
+		"/D/Projects/Ecommerce/src/ecommerce/wsgi.py",
+		"/D/Projects/Ecommerce/src/products/templates/products/featured-detail.html",
+		"/D/Projects/Ecommerce/Lib/site-packages/django/core/management/templates.py",
+		"/D/Projects/Ecommerce/src/templates/auth/login.html",
+		"/D/Projects/Ecommerce/src/templates/auth/register.html",
+		"/D/Projects/Ecommerce/Lib/site-packages/django/forms/widgets.py",
+		"/D/Projects/Ecommerce/.gitignore",
+		"/D/Projects/Ecommerce/pyvenv.cfg",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p1.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/index.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p7.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p6.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p5.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p4.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/index.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/25/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/24/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/24/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/24/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/24/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/24/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/24/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/24/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/24/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/24/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/23/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/23/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/23/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/23/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/23/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/23/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/23/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/23/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/23/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/22/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/22/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/22/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/22/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/22/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/22/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/22/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/22/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/22/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/21/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/21/p5.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/21/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/21/p3.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/21/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/21/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/21/index.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/21/p8.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/21/p7.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p4.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p3.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p2.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p1.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/index.html",
@@ -290,32 +637,19 @@
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p7.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p6.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p5.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p4.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/20/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p1.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/index.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p8.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p7.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p5.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p6.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p5.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p4.html",
 		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p4.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p3.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p1.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/index.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p7.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p8.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p6.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/18/p5.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/17/p2.html",
-		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/17/p1.html"
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p2.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/p1.html",
+		"/C/Users/Support/Desktop/Projects/Others/HTML PAGES/19/index.html"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
@@ -329,6 +663,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"2020/07/24",
+			"2020/07/23",
+			"2020/07/22",
+			"2020/07/21",
+			"2020/07/20",
+			"2020/07/19",
+			"2020/07/18",
+			"2020/07/17",
+			"2020/07/16/"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -336,6 +679,15 @@
 		"regex": false,
 		"replace_history":
 		[
+			"2020/07/25",
+			"2020/07/24",
+			"2020/07/23",
+			"2020/07/22",
+			"2020/07/21",
+			"2020/07/20",
+			"2020/07/19",
+			"2020/07/18",
+			"2020/07/17/"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -346,18 +698,48 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/products/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1100,
+								1100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 483.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 32.0
 	},
 	"input":
 	{
-		"height": 39.0
+		"height": 49.0
 	},
 	"layout":
 	{
@@ -390,7 +772,7 @@
 	"project": "ecommerce.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -428,7 +810,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 152.0,
+	"side_bar_width": 208.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

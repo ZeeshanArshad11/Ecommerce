@@ -38,6 +38,16 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    #"Our App"
+    'accounts',
+    'addresses',
+    'billing',
+    'products',
+    'search',
+    'tags',
+    'carts',
+    'orders'
 ]
 
 MIDDLEWARE = [
@@ -49,6 +59,9 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
+
+# Chage Default Redirect
+LOGOUT_REDIRECT_URL = "/login/"
 
 ROOT_URLCONF = 'ecommerce.urls'
 
@@ -119,3 +132,13 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, "static_ecommerce"),
+]
+
+STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_cdn","static_root")
+
+MEDIA_URL = '/media/'
+
+MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_cdn","media_root")

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+ {% load static %}
+
+{% block title %} Ecommerce - Checkout {% endblock title %}
+
+{% block content %}
+
+<div class="row">
+	<div class="col-12 py-5 text-center">
+		<h1 class="display-1">
+			Thank You!
+		</h1>
+		<img src="{% static 'img/tick.png' %}" style="width: 200px; height: 200px; " class="rounded mx-auto d-block" alt="Order Success">
+		<p class="lead"> Your Order was completed Successfully</p>
+		<p>Order No : <strong>{{ object.order_id }}</strong></p>
+		<p>Order Total : <strong> Rs.{{ object.total }}</strong></p>
+		<p>You will receive an email confirmation shortly at <strong>{{object.billing_profile}}</strong></p>
+	</div>
+</div>
+
+{% endblock %}
